@@ -1,4 +1,4 @@
-name: class_env
+me: class_env
 channels:
   - defaults
 dependencies:
