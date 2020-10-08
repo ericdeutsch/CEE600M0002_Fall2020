@@ -1,0 +1,201 @@
+[33mcommit ff5aa2d580699bdcbbb030463d77f5d402ccf67d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Tue Oct 6 16:13:26 2020 -0400
+
+    post Regression_Baddata
+
+[33mcommit d228e23cdf0c0eaf4d8309346351e0f4381cdfa8[m
+Merge: 7fe1b43 6841412
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Tue Oct 6 14:11:32 2020 -0400
+
+    s
+
+[33mcommit 684141268fcb8c56c8dcb2ece9e85e80a642202f[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: lizcarter492 <ekcarter@syr.edu>
+Date:   Tue Oct 6 14:10:09 2020 -0400
+
+    Today's lesson is...
+
+[33mcommit 7fe1b437da3a3eba2bdc5aaaf95b08502861409c[m
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Tue Oct 6 14:09:02 2020 -0400
+
+    update before class 10-6-2020
+
+[33mcommit 5f4f5ebfd737d9a71388a812318ef0ea4374780f[m
+Merge: 434d22e e751d5a
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Thu Oct 1 14:07:16 2020 -0400
+
+    changed
+
+[33mcommit 434d22eab59a596bf4c23024fe115d0444b0a9ca[m
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Thu Oct 1 14:04:34 2020 -0400
+
+    updating before class
+
+[33mcommit e751d5a00500c98ab8d79aef0d4e0f1b50c21235[m
+Author: student492 <ekcarter@syr.edu>
+Date:   Thu Oct 1 12:27:26 2020 -0400
+
+    Added CoordinateReferenceSystem.ipynb
+
+[33mcommit 8ca1556c996e5b9d9884836783d72c9615cbe217[m
+Merge: 7164533 9bfc8fb
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Tue Sep 29 14:24:22 2020 -0400
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 9bfc8fbfbed70e0835157c52a347df448582355f[m
+Author: student492 <liz.k.carter@gmail.com>
+Date:   Tue Sep 29 12:17:52 2020 -0400
+
+    Added class_env.yml and RasterData_101.ipynb for class on 20200929
+
+[33mcommit 7164533e87a419fe678a74d4dd235629d1f2ac02[m
+Author: ericdeutsch <edeutsch@syr.edu>
+Date:   Fri Sep 25 02:24:11 2020 -0400
+
+    Completed exercises from Week 5
+
+[33mcommit b5558e9aa88f5b89d71dab12553de069f63cd2ab[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Thu Sep 24 13:52:53 2020 -0400
+
+    Updated class directory for today
+
+[33mcommit 0ed93363bce34d8e1dec709150d3de55351e0b98[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Thu Sep 24 11:31:57 2020 -0400
+
+    Removed directory 6_1_datatypes
+
+[33mcommit 6a1e269730cabedba20a1d1cafc1377aea3c4f67[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Thu Sep 24 10:15:04 2020 -0400
+
+    Removed submodule ADD_101
+
+[33mcommit 0030d0411cbe7ed4089eb22e93da251b47d1186e[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 22 15:21:23 2020 -0400
+
+    Worked through class exercises on 20200922
+
+[33mcommit 25d570bb19af5550c9905e29817c87e9f3aac506[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 22 14:29:42 2020 -0400
+
+    trying to fix class issue in real time
+
+[33mcommit 99046b8638c122e95b1843e77a0e2196967c4e23[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 22 12:12:23 2020 -0400
+
+    Added 6_1_datatypes directory
+
+[33mcommit 5a0661da8851f11e8cde6fe7ae2acb4e0fffb9b4[m
+Merge: faf3f3e f13aaff
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 22 11:52:21 2020 -0400
+
+    Merge branch 'master' of https://github.com/LizCarter492/CEE600M0002_Fall2020
+
+[33mcommit faf3f3e8ff85f3f9f4c15ab07c7c637ea2fff668[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 22 11:51:33 2020 -0400
+
+    Added ADD_101
+
+[33mcommit f13aaffd1be3479fe3e2271c14f6217c342bd8c8[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Tue Sep 22 11:45:06 2020 -0400
+
+    Delete ADD_101
+
+[33mcommit 47dada54822313b370147865bec4bd2c89a1f1b3[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Tue Sep 22 11:42:52 2020 -0400
+
+    Create ADD_101
+
+[33mcommit 7e1dfadd4c1469c7d5c1cb815ce3d5982400c9f0[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Wed Sep 16 16:10:38 2020 -0400
+
+    Results for TMAX linear trend analysis
+
+[33mcommit bc0db89cee2d7cde68c36f8caaa881ef2b3238d9[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 15 14:41:19 2020 -0400
+
+    Added my name and mood to the README
+
+[33mcommit 201bdd2caa8ceda599191271dd386d881a4b216d[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 15 12:14:24 2020 -0400
+
+    Fixed error in indexing for nan removal
+
+[33mcommit b1b26c6c310612564a6d6701e4f6c5aa1d957c4f[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 15 12:05:36 2020 -0400
+
+    annotate weather_trends.py for clarity
+
+[33mcommit 5909a8fd53c5fe8b00aff111276f9ccb38af29ef[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 15 11:16:03 2020 -0400
+
+    Changes made to README file to reflect TODOs for class 4.1
+
+[33mcommit 018459b6814611b3f03297f459ef45fc43dc4611[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Tue Sep 15 09:42:59 2020 -0400
+
+    Add files via upload
+
+[33mcommit 7f2ff0f840a40bcc6e3854988bba6bfd5655e4ab[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Tue Sep 15 09:37:13 2020 -0400
+
+    Create README
+
+[33mcommit 21518fb242e73588c86b33c870575e908b6059de[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 15 09:25:08 2020 -0400
+
+    fixed typo in Git_101 folder name
+
+[33mcommit 3d7565817504e4fe057e37f9ad90f5744d9ba767[m
+Author: LizCarter492 <ekcarter@syr.edu>
+Date:   Tue Sep 15 09:18:51 2020 -0400
+
+    fixed bug in range function on weather_trends.py
+
+[33mcommit cb28e6e1e8cfa0fc8802714ef7d83e8fbd5ea72a[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Tue Sep 15 07:31:43 2020 -0400
+
+    Add files via upload
+
+[33mcommit 827dc0576f353c8678e519a67e7084fdc714686e[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Tue Sep 15 07:29:33 2020 -0400
+
+    Create README
+
+[33mcommit 6477b5e7ee7d5bd3cbfc3a1f0f3f01b746fc75be[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Sat Aug 15 23:46:48 2020 -0400
+
+    Update README.md
+
+[33mcommit b2732545918a7b3c2c32fe243b7dd7a65709401e[m
+Author: LizCarter492 <69742028+LizCarter492@users.noreply.github.com>
+Date:   Sat Aug 15 23:46:11 2020 -0400
+
+    Initial commit
